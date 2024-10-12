@@ -1,0 +1,69 @@
+1. Basic of Javascript. (2)
+2. Template string,arrow function, spread  operator. (6,7)
+3. Array destructuring object destructuring. (4,7)
+4. JSON stringify and parse, fetch (1)
+5. Shorcut, truthy and falsy value.
+6. Ternary Operator.
+7. Logical and, Logical or.
+
+*. Extra: 3, 5,8,9,10
+
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
+
+After learning React, it's essential to strengthen your knowledge of various JavaScript concepts to become a more proficient developer. Some of the key JavaScript concepts you should focus on next include:
+
+1. Asynchronous JavaScript (Promises, async/await) 
+
+    Why: Handling asynchronous operations, such as fetching data from an API, is crucial in React applications.
+    Key Topics: Promises, async/await, fetch API, error handling with .catch().
+
+2. JavaScript Closures ✅
+
+    Why: Closures are commonly used in React hooks and functional components.
+    Key Topics: How functions remember the context in which they were created.
+
+3. Event Loop & Callbacks
+
+    Why: Understanding the event loop is important for performance optimization and debugging asynchronous behavior in React.
+    Key Topics: Event loop, microtasks, macrotasks, and how JavaScript handles concurrency.
+
+4. Array Methods (Higher-Order Functions)
+
+    Why: Methods like map(), filter(), and reduce() are frequently used in React to manipulate state or props.
+    Key Topics: map(), filter(), reduce(), forEach(), some(), every().
+
+5. Modules and Imports/Exports
+
+    Why: React applications are typically modular, with components spread across multiple files.
+    Key Topics: ES6 modules, import, export, named vs default exports.
+
+6. Understanding this and Arrow Functions ✅
+
+    Why: React uses a lot of functional components, and arrow functions simplify binding this.
+    Key Topics: Arrow functions, lexical this, binding context.
+
+7. Destructuring and Spread/Rest Operator ✅
+
+    Why: These are commonly used in React to manage state and props in a clean and concise way.
+    Key Topics: Object and array destructuring, rest parameters, and spread syntax (...).
+
+8. Object-Oriented Programming (OOP) Basics
+
+    Why: Although React favors functional programming, understanding OOP principles can help you in certain React patterns, such as using classes for older components.
+    Key Topics: Classes, inheritance, encapsulation, polymorphism.
+
+9. Prototypes and Inheritance
+
+    Why: Helps to understand the prototype chain in JavaScript and how inheritance works under the hood, which can be beneficial when dealing with advanced patterns.
+    Key Topics: Prototypes, inheritance, Object.create().
+
+10. Error Handling
+
+    Why: Error boundaries in React rely on effective JavaScript error handling strategies.
+    Key Topics: try/catch, custom error messages, throw.
+    Mastering these concepts will greatly enhance your ability to work effectively in React and with JavaScript in general.
+
+
+
+
+    
